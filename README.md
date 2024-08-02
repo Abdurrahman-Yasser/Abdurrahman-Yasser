@@ -11,6 +11,6 @@
 - 🔧 Tech Stack: .NET, C#, Blazor, JavaScript, jQuery, Bootstrap, SQL, HTML/CSS
 - 🌱 Currently learning advanced Blazor features and frontend frameworks.
 
-- 💼 Currently employed as a software developer at @DevHouse-inc 
+- 💼 Currently employed as a software developer at @DevHouse-Int https://github.com/DevHouse-Int
 
 Feel free to connect and collaborate!
